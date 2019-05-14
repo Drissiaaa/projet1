@@ -1,0 +1,67 @@
+
+body{
+    background-image: url(fond.png);
+    color: #666;
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+header{
+    background: #b8cb21;
+    padding: 25px;
+}
+
+header nav{
+    float: right;
+    padding: 50px 0;
+}
+header nav a{
+    color:#2C4726;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 15px;
+    font-family: "oswald", sans-serif;
+    
+}
+header, main{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.clear{
+    clear: both;
+}
+/*---MAIN---*/
+h2{
+    font-family: "Oswald", sans-serif;
+    color: #b8cb21;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+img{
+    max-width: 100%;
+}
+main{
+    background-color: white;
+    padding: 25px;
+}
+
+main a{
+    float: right;
+    text-decoration: none;
+    color: white;
+    background-color: #b8cb21;
+    padding: 10px;
+}
+article img{
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+#licence{
+    display: block;
+    text-align: center;
+    padding: 50px;
+}
+#licence img{
+    width: 50px;
+    
+}
